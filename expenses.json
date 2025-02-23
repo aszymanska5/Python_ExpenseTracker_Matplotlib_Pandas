@@ -1,0 +1,602 @@
+[
+    {
+        "date": "2024-12-28",
+        "category": "Groceries",
+        "amount": 198.04,
+        "description": "Gas for the car"
+    },
+    {
+        "date": "2024-12-07",
+        "category": "Utilities",
+        "amount": 161.71,
+        "description": "Water bill"
+    },
+    {
+        "date": "2024-12-30",
+        "category": "Rent",
+        "amount": 74.92,
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "date": "2024-12-05",
+        "category": "Groceries",
+        "amount": 464.65,
+        "description": "Dinner and movie night"
+    },
+    {
+        "date": "2024-12-13",
+        "category": "Utilities",
+        "amount": 190.13,
+        "description": "Gas for the car"
+    },
+    {
+        "date": "2024-12-08",
+        "category": "Rent",
+        "amount": 33.87,
+        "description": "Water bill"
+    },
+    {
+        "date": "2024-12-31",
+        "category": "Entertainment",
+        "amount": 343.99,
+        "description": "Bus tickets"
+    },
+    {
+        "date": "2024-12-21",
+        "category": "Utilities",
+        "amount": 48.29,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-20",
+        "category": "Entertainment",
+        "amount": 83.17,
+        "description": "Water bill"
+    },
+    {
+        "date": "2024-12-04",
+        "category": "Transport",
+        "amount": 183.15,
+        "description": "Electricity bill"
+    },
+    {
+        "date": "2024-12-19",
+        "category": "Utilities",
+        "amount": 100.33,
+        "description": "Water bill"
+    },
+    {
+        "date": "2024-12-24",
+        "category": "Utilities",
+        "amount": 456.5,
+        "description": "Internet subscription"
+    },
+    {
+        "date": "2024-12-18",
+        "category": "Transport",
+        "amount": 352.08,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-17",
+        "category": "Groceries",
+        "amount": 313.65,
+        "description": "Gas for the car"
+    },
+    {
+        "date": "2024-12-21",
+        "category": "Groceries",
+        "amount": 101.76,
+        "description": "Gas for the car"
+    },
+    {
+        "date": "2024-12-06",
+        "category": "Entertainment",
+        "amount": 333.73,
+        "description": "Internet subscription"
+    },
+    {
+        "date": "2024-12-12",
+        "category": "Transport",
+        "amount": 33.31,
+        "description": "Water bill"
+    },
+    {
+        "date": "2024-12-28",
+        "category": "Rent",
+        "amount": 405.14,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-10",
+        "category": "Utilities",
+        "amount": 87.51,
+        "description": "Gas for the car"
+    },
+    {
+        "date": "2024-12-26",
+        "category": "Utilities",
+        "amount": 463.52,
+        "description": "Internet subscription"
+    },
+    {
+        "date": "2024-12-02",
+        "category": "Transport",
+        "amount": 250.98,
+        "description": "Gas for the car"
+    },
+    {
+        "date": "2024-12-04",
+        "category": "Groceries",
+        "amount": 174.35,
+        "description": "Internet subscription"
+    },
+    {
+        "date": "2024-12-26",
+        "category": "Utilities",
+        "amount": 330.37,
+        "description": "Bus tickets"
+    },
+    {
+        "date": "2024-12-02",
+        "category": "Rent",
+        "amount": 137.5,
+        "description": "Monthly rent payment"
+    },
+    {
+        "date": "2024-12-27",
+        "category": "Entertainment",
+        "amount": 264.7,
+        "description": "Water bill"
+    },
+    {
+        "date": "2024-12-23",
+        "category": "Transport",
+        "amount": 73.27,
+        "description": "Monthly rent payment"
+    },
+    {
+        "date": "2024-12-09",
+        "category": "Utilities",
+        "amount": 93.56,
+        "description": "Dinner and movie night"
+    },
+    {
+        "date": "2024-12-19",
+        "category": "Rent",
+        "amount": 282.56,
+        "description": "Internet subscription"
+    },
+    {
+        "date": "2024-12-03",
+        "category": "Transport",
+        "amount": 190.64,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-03",
+        "category": "Transport",
+        "amount": 228.14,
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "date": "2024-12-17",
+        "category": "Utilities",
+        "amount": 150.08,
+        "description": "Monthly rent payment"
+    },
+    {
+        "date": "2024-12-11",
+        "category": "Transport",
+        "amount": 210.97,
+        "description": "Water bill"
+    },
+    {
+        "date": "2024-12-08",
+        "category": "Utilities",
+        "amount": 10.93,
+        "description": "Gas for the car"
+    },
+    {
+        "date": "2024-12-13",
+        "category": "Rent",
+        "amount": 425.15,
+        "description": "Internet subscription"
+    },
+    {
+        "date": "2024-12-27",
+        "category": "Groceries",
+        "amount": 118.64,
+        "description": "Gas for the car"
+    },
+    {
+        "date": "2024-12-16",
+        "category": "Groceries",
+        "amount": 143.8,
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "date": "2024-12-15",
+        "category": "Transport",
+        "amount": 419.66,
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "date": "2024-12-06",
+        "category": "Utilities",
+        "amount": 304.72,
+        "description": "Monthly rent payment"
+    },
+    {
+        "date": "2024-12-09",
+        "category": "Entertainment",
+        "amount": 260.0,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-23",
+        "category": "Entertainment",
+        "amount": 408.46,
+        "description": "Electricity bill"
+    },
+    {
+        "date": "2024-12-19",
+        "category": "Rent",
+        "amount": 416.26,
+        "description": "Monthly rent payment"
+    },
+    {
+        "date": "2024-12-11",
+        "category": "Transport",
+        "amount": 261.1,
+        "description": "Electricity bill"
+    },
+    {
+        "date": "2024-12-14",
+        "category": "Rent",
+        "amount": 301.83,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-26",
+        "category": "Rent",
+        "amount": 114.16,
+        "description": "Gas for the car"
+    },
+    {
+        "date": "2024-12-25",
+        "category": "Utilities",
+        "amount": 450.95,
+        "description": "Gas for the car"
+    },
+    {
+        "date": "2024-12-25",
+        "category": "Entertainment",
+        "amount": 315.26,
+        "description": "Bus tickets"
+    },
+    {
+        "date": "2024-12-15",
+        "category": "Rent",
+        "amount": 239.86,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-17",
+        "category": "Utilities",
+        "amount": 349.76,
+        "description": "Water bill"
+    },
+    {
+        "date": "2024-12-17",
+        "category": "Transport",
+        "amount": 207.42,
+        "description": "Internet subscription"
+    },
+    {
+        "date": "2024-12-15",
+        "category": "Transport",
+        "amount": 76.42,
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "date": "2024-12-17",
+        "category": "Utilities",
+        "amount": 344.94,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-02",
+        "category": "Entertainment",
+        "amount": 302.23,
+        "description": "Streaming service"
+    },
+    {
+        "date": "2024-12-31",
+        "category": "Rent",
+        "amount": 302.96,
+        "description": "Electricity bill"
+    },
+    {
+        "date": "2024-12-06",
+        "category": "Entertainment",
+        "amount": 213.68,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-24",
+        "category": "Groceries",
+        "amount": 212.08,
+        "description": "Internet subscription"
+    },
+    {
+        "date": "2024-12-07",
+        "category": "Transport",
+        "amount": 170.83,
+        "description": "Internet subscription"
+    },
+    {
+        "date": "2024-12-24",
+        "category": "Utilities",
+        "amount": 92.64,
+        "description": "Electricity bill"
+    },
+    {
+        "date": "2024-12-01",
+        "category": "Rent",
+        "amount": 245.59,
+        "description": "Internet subscription"
+    },
+    {
+        "date": "2024-12-06",
+        "category": "Rent",
+        "amount": 148.39,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-06",
+        "category": "Groceries",
+        "amount": 82.08,
+        "description": "Electricity bill"
+    },
+    {
+        "date": "2024-12-10",
+        "category": "Rent",
+        "amount": 266.88,
+        "description": "Bus tickets"
+    },
+    {
+        "date": "2024-12-27",
+        "category": "Entertainment",
+        "amount": 349.29,
+        "description": "Streaming service"
+    },
+    {
+        "date": "2024-12-01",
+        "category": "Groceries",
+        "amount": 310.98,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-29",
+        "category": "Transport",
+        "amount": 109.4,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-03",
+        "category": "Utilities",
+        "amount": 397.46,
+        "description": "Water bill"
+    },
+    {
+        "date": "2024-12-03",
+        "category": "Rent",
+        "amount": 415.16,
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "date": "2024-12-11",
+        "category": "Utilities",
+        "amount": 150.59,
+        "description": "Streaming service"
+    },
+    {
+        "date": "2024-12-28",
+        "category": "Utilities",
+        "amount": 188.39,
+        "description": "Water bill"
+    },
+    {
+        "date": "2024-12-27",
+        "category": "Rent",
+        "amount": 384.78,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-12",
+        "category": "Utilities",
+        "amount": 193.23,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-16",
+        "category": "Rent",
+        "amount": 35.14,
+        "description": "Streaming service"
+    },
+    {
+        "date": "2024-12-07",
+        "category": "Entertainment",
+        "amount": 133.41,
+        "description": "Gas for the car"
+    },
+    {
+        "date": "2024-12-21",
+        "category": "Groceries",
+        "amount": 64.82,
+        "description": "Dinner and movie night"
+    },
+    {
+        "date": "2024-12-31",
+        "category": "Utilities",
+        "amount": 29.98,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-04",
+        "category": "Utilities",
+        "amount": 112.68,
+        "description": "Bus tickets"
+    },
+    {
+        "date": "2024-12-23",
+        "category": "Transport",
+        "amount": 210.01,
+        "description": "Bus tickets"
+    },
+    {
+        "date": "2024-12-30",
+        "category": "Transport",
+        "amount": 102.36,
+        "description": "Dinner and movie night"
+    },
+    {
+        "date": "2024-12-11",
+        "category": "Entertainment",
+        "amount": 76.52,
+        "description": "Monthly rent payment"
+    },
+    {
+        "date": "2024-12-19",
+        "category": "Utilities",
+        "amount": 202.58,
+        "description": "Electricity bill"
+    },
+    {
+        "date": "2024-12-21",
+        "category": "Utilities",
+        "amount": 390.47,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-06",
+        "category": "Entertainment",
+        "amount": 54.76,
+        "description": "Dinner and movie night"
+    },
+    {
+        "date": "2024-12-10",
+        "category": "Utilities",
+        "amount": 278.14,
+        "description": "Gas for the car"
+    },
+    {
+        "date": "2024-12-20",
+        "category": "Groceries",
+        "amount": 367.09,
+        "description": "Gas for the car"
+    },
+    {
+        "date": "2024-12-13",
+        "category": "Entertainment",
+        "amount": 248.01,
+        "description": "Monthly rent payment"
+    },
+    {
+        "date": "2024-12-22",
+        "category": "Utilities",
+        "amount": 453.72,
+        "description": "Water bill"
+    },
+    {
+        "date": "2024-12-26",
+        "category": "Entertainment",
+        "amount": 226.55,
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "date": "2024-12-01",
+        "category": "Entertainment",
+        "amount": 255.3,
+        "description": "Electricity bill"
+    },
+    {
+        "date": "2024-12-15",
+        "category": "Entertainment",
+        "amount": 200.19,
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "date": "2024-12-13",
+        "category": "Groceries",
+        "amount": 67.29,
+        "description": "Water bill"
+    },
+    {
+        "date": "2024-12-29",
+        "category": "Rent",
+        "amount": 65.04,
+        "description": "Water bill"
+    },
+    {
+        "date": "2024-12-03",
+        "category": "Entertainment",
+        "amount": 146.74,
+        "description": "Internet subscription"
+    },
+    {
+        "date": "2024-12-07",
+        "category": "Rent",
+        "amount": 134.1,
+        "description": "Gas for the car"
+    },
+    {
+        "date": "2024-12-14",
+        "category": "Rent",
+        "amount": 456.82,
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "date": "2024-12-09",
+        "category": "Entertainment",
+        "amount": 129.24,
+        "description": "Water bill"
+    },
+    {
+        "date": "2024-12-26",
+        "category": "Utilities",
+        "amount": 373.15,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-01",
+        "category": "Utilities",
+        "amount": 82.92,
+        "description": "Internet subscription"
+    },
+    {
+        "date": "2024-12-17",
+        "category": "Groceries",
+        "amount": 199.13,
+        "description": "Bus tickets"
+    },
+    {
+        "date": "2024-12-24",
+        "category": "Transport",
+        "amount": 332.08,
+        "description": "Home maintenance"
+    },
+    {
+        "date": "2024-12-09",
+        "category": "Entertainment",
+        "amount": 59.8,
+        "description": "Dinner and movie night"
+    },
+    {
+        "date": "2024-12-12",
+        "category": "Rent",
+        "amount": 422.17,
+        "description": "Weekly grocery shopping"
+    }
+]
